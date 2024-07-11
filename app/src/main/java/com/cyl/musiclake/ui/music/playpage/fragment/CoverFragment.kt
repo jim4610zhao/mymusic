@@ -60,7 +60,7 @@ class CoverFragment : BaseFragment<BasePresenter<BaseContract.BaseView>>() {
 
     override fun initViews() {
         super.initViews()
-        LogUtil.d(TAG, "initViews ")
+        LogUtil.d(TAG, "initViews")
         coverView = rootView.findViewById(R.id.coverView)
         cover2View = rootView.findViewById(R.id.cover2View)
         tvQuality = rootView.findViewById(R.id.tv_quality)

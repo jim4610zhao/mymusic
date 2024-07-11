@@ -9,17 +9,13 @@
  [build.md](BUILD.md)
 
 # 功能版本
-- Android 音乐播放器(本地/在线播放) （最低支持Android版本5.0）
+- Android 音乐播放器(本地/在线播放) （最低支持Android版本7.1）
 - 支持多平台音乐源，百度音乐，虾米音乐、网易云音乐、Youtube（需要翻墙）
 - 歌词播放、桌面歌词、桌面小控件
 - 通知栏控制、线控播放、音频焦点控制
 - QQ登录、微博登陆、在线歌单同步
 - 网易云热门歌手，百度电台列表，网易云mv排行榜，mv播放评论
 - 酷狗歌词搜索、修改歌词样式、歌词翻译
-- [PC端](https://github.com/sunzongzheng/music)
-
-### 开源不易，有兴趣可给个star，支持一下哦！
-- 群聊已经解散，有什么问题可以提[issues](https://github.com/caiyonglong/MusicLake/issues)！，有想法可以提PR。感谢关注🙏
 
 ![功能](screenshots/features.png)
 
@@ -97,12 +93,4 @@ QQ音乐享有对其平台授权音乐的版权，请勿随意下载，复制版
 “网易云”、“网易云音乐”等文字、图形和商业标识，其著作权或商标权归网易所有。
 网易云音乐享有对其平台授权音乐的版权，请勿随意下载，复制版权内容。具体内容请参考网易云音乐用户协议。
 
-## :moneybag: 支持&捐赠
-开源不易，请大佬打赏点^V^ :moneybag:
-- 用于服务器日常费用
-- 加点油
-- 微信:
-<img src="screenshots/donate_wechat.png" width="225" height="225"/>
 
-- 支付宝:
-<img src="screenshots/donate_alipay.png" width="225" height="225"/>
